@@ -11,6 +11,18 @@
 		3B255A932903D46500839577 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255A922903D46500839577 /* ContentView.swift */; };
 		3B255A952903D47200839577 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B255A942903D47200839577 /* Assets.xcassets */; };
 		3B255A982903D47200839577 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B255A972903D47200839577 /* Preview Assets.xcassets */; };
+		3B255AA22903D4A100839577 /* CharacterDetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255AA12903D4A100839577 /* CharacterDetailUIView.swift */; };
+		3B255AA62903D4B300839577 /* CharacterUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255AA52903D4B300839577 /* CharacterUIView.swift */; };
+		3B255AB32903F73C00839577 /* GadgetUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255AB22903F73C00839577 /* GadgetUIView.swift */; };
+		3B255ACA29046AFD00839577 /* Hanzipen_bold.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 3B255AC929046AFD00839577 /* Hanzipen_bold.ttc */; };
+		3B255ACE29046B9D00839577 /* FontStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255ACD29046B9D00839577 /* FontStyle.swift */; };
+		3B255AD329047A4800839577 /* GadgetDetailUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255AD229047A4800839577 /* GadgetDetailUIView.swift */; };
+		3B255ADB2905853000839577 /* MovieUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255ADA2905853000839577 /* MovieUIView.swift */; };
+		3B255ADF2905B35600839577 /* HomeUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B255ADE2905B35600839577 /* HomeUIView.swift */; };
+		3B255AE82905C1A000839577 /* 實現夢想的哆啦A夢.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3B255AE72905C1A000839577 /* 實現夢想的哆啦A夢.mp4 */; };
+		3B6A3A8A290970DE00CB5011 /* DoraemonTheme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3B6A3A89290970DE00CB5011 /* DoraemonTheme.mp3 */; };
+		49CE2C6629084E9200AB953B /* AboutUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CE2C6529084E9200AB953B /* AboutUIView.swift */; };
+		49CE2C692908626700AB953B /* introdctionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CE2C682908626700AB953B /* introdctionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +32,18 @@
 		3B255A942903D47200839577 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B255A972903D47200839577 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3B255A992903D47200839577 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B255AA12903D4A100839577 /* CharacterDetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterDetailUIView.swift; sourceTree = "<group>"; };
+		3B255AA52903D4B300839577 /* CharacterUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterUIView.swift; sourceTree = "<group>"; };
+		3B255AB22903F73C00839577 /* GadgetUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GadgetUIView.swift; sourceTree = "<group>"; };
+		3B255AC929046AFD00839577 /* Hanzipen_bold.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Hanzipen_bold.ttc; sourceTree = "<group>"; };
+		3B255ACD29046B9D00839577 /* FontStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontStyle.swift; sourceTree = "<group>"; };
+		3B255AD229047A4800839577 /* GadgetDetailUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GadgetDetailUIView.swift; sourceTree = "<group>"; };
+		3B255ADA2905853000839577 /* MovieUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieUIView.swift; sourceTree = "<group>"; };
+		3B255ADE2905B35600839577 /* HomeUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUIView.swift; sourceTree = "<group>"; };
+		3B255AE72905C1A000839577 /* 實現夢想的哆啦A夢.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "實現夢想的哆啦A夢.mp4"; sourceTree = "<group>"; };
+		3B6A3A89290970DE00CB5011 /* DoraemonTheme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DoraemonTheme.mp3; sourceTree = "<group>"; };
+		49CE2C6529084E9200AB953B /* AboutUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUIView.swift; sourceTree = "<group>"; };
+		49CE2C682908626700AB953B /* introdctionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = introdctionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +77,11 @@
 			isa = PBXGroup;
 			children = (
 				3B255A902903D46500839577 /* ioshw2_00857039App.swift */,
-				3B255A922903D46500839577 /* ContentView.swift */,
+				3B255AC929046AFD00839577 /* Hanzipen_bold.ttc */,
+				3B6A3A89290970DE00CB5011 /* DoraemonTheme.mp3 */,
+				3B255AE72905C1A000839577 /* 實現夢想的哆啦A夢.mp4 */,
+				3B255ACD29046B9D00839577 /* FontStyle.swift */,
+				3B255AD729047A8300839577 /* UIView */,
 				3B255A942903D47200839577 /* Assets.xcassets */,
 				3B255A992903D47200839577 /* Info.plist */,
 				3B255A962903D47200839577 /* Preview Content */,
@@ -67,6 +95,46 @@
 				3B255A972903D47200839577 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3B255AA02903D48600839577 /* CharacterRelated */ = {
+			isa = PBXGroup;
+			children = (
+				3B255AA52903D4B300839577 /* CharacterUIView.swift */,
+				3B255AA12903D4A100839577 /* CharacterDetailUIView.swift */,
+			);
+			path = CharacterRelated;
+			sourceTree = "<group>";
+		};
+		3B255AD529047A5900839577 /* GadgetRelated */ = {
+			isa = PBXGroup;
+			children = (
+				3B255AB22903F73C00839577 /* GadgetUIView.swift */,
+				3B255AD229047A4800839577 /* GadgetDetailUIView.swift */,
+			);
+			path = GadgetRelated;
+			sourceTree = "<group>";
+		};
+		3B255AD729047A8300839577 /* UIView */ = {
+			isa = PBXGroup;
+			children = (
+				3B255A922903D46500839577 /* ContentView.swift */,
+				3B255ADE2905B35600839577 /* HomeUIView.swift */,
+				49CE2C6529084E9200AB953B /* AboutUIView.swift */,
+				49CE2C6B29086CF800AB953B /* AboutRelated */,
+			);
+			path = UIView;
+			sourceTree = "<group>";
+		};
+		49CE2C6B29086CF800AB953B /* AboutRelated */ = {
+			isa = PBXGroup;
+			children = (
+				49CE2C682908626700AB953B /* introdctionView.swift */,
+				3B255AA02903D48600839577 /* CharacterRelated */,
+				3B255AD529047A5900839577 /* GadgetRelated */,
+				3B255ADA2905853000839577 /* MovieUIView.swift */,
+			);
+			path = AboutRelated;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +194,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B6A3A8A290970DE00CB5011 /* DoraemonTheme.mp3 in Resources */,
+				3B255AE82905C1A000839577 /* 實現夢想的哆啦A夢.mp4 in Resources */,
 				3B255A982903D47200839577 /* Preview Assets.xcassets in Resources */,
 				3B255A952903D47200839577 /* Assets.xcassets in Resources */,
+				3B255ACA29046AFD00839577 /* Hanzipen_bold.ttc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +209,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B255AD329047A4800839577 /* GadgetDetailUIView.swift in Sources */,
+				3B255AB32903F73C00839577 /* GadgetUIView.swift in Sources */,
+				3B255AA22903D4A100839577 /* CharacterDetailUIView.swift in Sources */,
+				3B255ACE29046B9D00839577 /* FontStyle.swift in Sources */,
+				49CE2C6629084E9200AB953B /* AboutUIView.swift in Sources */,
 				3B255A932903D46500839577 /* ContentView.swift in Sources */,
+				3B255ADF2905B35600839577 /* HomeUIView.swift in Sources */,
+				3B255ADB2905853000839577 /* MovieUIView.swift in Sources */,
+				49CE2C692908626700AB953B /* introdctionView.swift in Sources */,
+				3B255AA62903D4B300839577 /* CharacterUIView.swift in Sources */,
 				3B255A912903D46500839577 /* ioshw2_00857039App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
